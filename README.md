@@ -1,3 +1,5 @@
+![image](https://github.com/dgwyer/gutenberg-keyboard-shortcuts-quiz/assets/1482075/72a9be47-043e-4e07-8f09-3a115950337e)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
